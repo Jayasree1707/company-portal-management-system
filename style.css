@@ -1,0 +1,16 @@
+body{
+    background:#f4f6f9 !important;
+}
+
+.sidebar{
+    background:red !important;
+    width:250px;
+    height:100vh;
+    position:fixed;
+    left:0;
+    top:0;
+}
+
+.main{
+    margin-left:250px;
+}
